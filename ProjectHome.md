@@ -1,0 +1,1 @@
+This will be designed to allow truckers to update a web-based electronic log wherever they may be.
